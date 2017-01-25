@@ -30,4 +30,13 @@ ESD stendur fyrir Electrostatic discharge og það eru leiðir til að að verja
 
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
-Það þarf að reikna út hversu mikið Watts ég þarf fyrir tölvuna ekki hafa hana alltof háa en ekki heldur láa, það er nóg að hafa 20% meira watts en það sem þú þarft
+Það þarf að reikna út hversu mikið Watts ég þarf fyrir tölvuna ekki hafa hana alltof háa en ekki heldur láa, það er nóg að hafa 20% meira watts en það sem þú þarft.
+
+## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+1. Finna út vandamálið
+2. Koma á kenningu um líklega orsök
+3. Prófa keningarnar til að ákvarða orsök vandans
+4. Koma áætlun um aðgerðir til að leysa vandann og innleiða lausnina
+5. Staðfesta fulla virkni og ef við á, hrinda í framkvæmd fyrirbyggjandi aðgerðir
+6. Skrá niðurstöður þínar, aðgerðir og útkomur
