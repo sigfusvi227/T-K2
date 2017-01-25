@@ -27,3 +27,7 @@ ESD stendur fyrir Electrostatic discharge og það eru leiðir til að að verja
 4. Halda hluti í andstæðingur-truflanir poka fyrr en þú ert tilbúin til að setja þá. Þessar töskur eru hönnuð til að koma í veg fyrir gjald frá byggja.
 
 5. Vertu viss um að jörð sjálfur til tölvukassa með snertingu tryggir persónulega truflanir kostnaðarlausu þitt hefur verið tæmd áður en þú vinnur á innan tölvunnar.
+
+## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+
+Það þarf að reikna út hversu mikið Watts ég þarf fyrir tölvuna ekki hafa hana alltof háa en ekki heldur láa, það er nóg að hafa 20% meira watts en það sem þú þarft
