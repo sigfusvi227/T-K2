@@ -46,3 +46,11 @@ ESD stendur fyrir Electrostatic discharge og Ã¾aÃ° eru leiÃ°ir til aÃ° aÃ° verja
 (e.open ended) er spurningar sem eru rannsóknarhola í náttúrunni. Eins og fjallað með "hvernig gera þú fá að vinna?" Spurningu, það gerir ráð fyrir að stefndi að veita allir svar sem þeir kjósa án þess að neyða þá til að velja úr steypu valkostum
 
 (closed ended) er Lokaðar spurningar koma í fjölmörgum myndum, en eru skilgreind með þörf þeirra til að hafa skýr valkosti fyrir gerðarþola til að velja úr. Það er eins og að vera í boði spagettí eða hamborgara í kvöldmat, í stað þess að vera beðin "Hvað viltu að borða?"
+
+## 8. Hvað er jaðartæki?
+
+Jaðartæki er spes hugbúnnaður sem gefur eða fær upplýsingar úr tölvunni. Hér eru nokkrar sem ég get nefnt.
+
+Input hugbúnnaður: Er það sem þú tengir við tölvuna og er eitthvað sem þú stjórnar tölvunni með t.d. eins og mús, lyklaborð og micraphone.
+
+Output hugbúnnaður: Er eins og það sem kemur frá tölvunni, bara sama en öfugt við input. T.d. hér er dæmi með output hugbúnnað, það er eins og loud speakerar, mprintarar ofl, aðalega það sem kemúr úr eða frá tölvunni stað fyrir inn í hana.
