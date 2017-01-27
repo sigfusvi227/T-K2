@@ -51,6 +51,17 @@ ESD stendur fyrir Electrostatic discharge og Ã¾aÃ° eru leiÃ°ir til aÃ° aÃ° verja
 
 Jaðartæki er spes hugbúnnaður sem gefur eða fær upplýsingar úr tölvunni. Hér eru nokkrar sem ég get nefnt.
 
-Input hugbúnnaður: Er það sem þú tengir við tölvuna og er eitthvað sem þú stjórnar tölvunni með t.d. eins og mús, lyklaborð og micraphone.
+Input tæki: Er það sem þú tengir við tölvuna og er eitthvað sem þú stjórnar tölvunni með t.d. eins og mús, lyklaborð og micraphone.
 
-Output hugbúnnaður: Er eins og það sem kemur frá tölvunni, bara sama en öfugt við input. T.d. hér er dæmi með output hugbúnnað, það er eins og loud speakerar, mprintarar ofl, aðalega það sem kemúr úr eða frá tölvunni stað fyrir inn í hana.
+Output tæki: Er eins og það sem kemur frá tölvunni, bara sama en öfugt við input. T.d. hér er dæmi með output hugbúnnað, það er eins og loud speakerar, mprintarar ofl, aðalega það sem kemúr úr eða frá tölvunni stað fyrir inn í hana.
+
+## 9. Nefndu þrjú dæmi um inntakstæki.
+Ég var eiginlega búinn að nefna hvað það er en þarna jújú ég get alveg nefnt 3 aftur.
+
+1. Lyklaborð
+2. Talnaborð
+3. Mús
+4. Skannar
+5. Myndavélar
+6. Stýripinnar
+
