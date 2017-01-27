@@ -40,3 +40,9 @@ ESD stendur fyrir Electrostatic discharge og Ã¾aÃ° eru leiÃ°ir til aÃ° aÃ° verja
 4. Koma Ã¡Ã¦tlun um aÃ°gerÃ°ir til aÃ° leysa vandann og innleiÃ°a lausnina
 5. StaÃ°festa fulla virkni og ef viÃ° Ã¡, hrinda Ã­ framkvÃ¦md fyrirbyggjandi aÃ°gerÃ°ir
 6. SkrÃ¡ niÃ°urstÃ¶Ã°ur Ã¾Ã­nar, aÃ°gerÃ°ir og Ãºtkomur
+
+## 7. Hver er munurinn á opinn (e. open ended) og lokağri (closed ended) spurningu? Nefniğ dæmi um báğar gerğir af spurningum.
+
+(e.open ended) er spurningar sem eru rannsóknarhola í náttúrunni. Eins og fjallağ meğ "hvernig gera şú fá ağ vinna?" Spurningu, şağ gerir ráğ fyrir ağ stefndi ağ veita allir svar sem şeir kjósa án şess ağ neyğa şá til ağ velja úr steypu valkostum
+
+(closed ended) er Lokağar spurningar koma í fjölmörgum myndum, en eru skilgreind meğ şörf şeirra til ağ hafa skır valkosti fyrir gerğarşola til ağ velja úr. Şağ er eins og ağ vera í boği spagettí eğa hamborgara í kvöldmat, í stağ şess ağ vera beğin "Hvağ viltu ağ borğa?"
