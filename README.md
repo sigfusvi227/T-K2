@@ -65,3 +65,14 @@ Output tæki: Er eins og það sem kemur frá tölvunni, bara sama en öfugt við input
 5. Myndavélar
 6. Stýripinnar
 
+## 10. 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+Örgjörvar: intel i5 7400 3.0  frá tölvutækni á 28.900kr
+Minni: 16 GB (2x8 GB) 3000 MHz frá att.is á 16.950kr
+Skjákort: Geforce GTX 1060 6 GB frá att.is á 43.950kr
+Harður diskur: 500gb samsung 850 EVO frá att.is á 26.950kr
+Aflgjafi: Aerocool KCAS 800W frá att.is á 14.500kr
+Tölvukassi: Cooler MAster Silencio 550 frá tölvulistan á 17.991kr
+Móðurborð: Asus Z170-Pro Gaming frá att.is á 27.855kr
+
+ég er með 72.904kr í afgang en málið er að ég er alltof sparneytinn, ef það væri eitthvað af þessu sem ég myndi breyta væri það örgjörvinn í Intel i7 7700k 4.2 ~ 4.5 GHz sem kostar 53.900 kr.
